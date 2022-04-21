@@ -35,7 +35,7 @@ set(MUSICPLAYER_PLUGINS
     sc68plugin
     stsoundplugin
     tedplugin
-    uadeplugin
+    #uadeplugin
     v2plugin
     usfplugin
     rsnplugin
